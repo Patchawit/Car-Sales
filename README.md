@@ -1,5 +1,5 @@
 # Cars-Sales-Thailand
-<a href=""><img src="img/travel.PNG" width="1000px"></a>
+<a href=""><img src="img/car.jpg" width="1000px"></a>
  <h2>PROJECT PROBLEM SOLVING IN INFORMATION TECHNOLOGY 1/2560</h2>
 
 ## คำอธิบายโปรเจค
@@ -18,9 +18,9 @@
 ## สมาชิกในกลุ่ม
 | | รหัสนักศึกษา        | ชื่อ | นามสกุล |
 |:-:| :-------------: |:----------:|:--------:|
-| <a href=""><img src="img/group3.jpg" width="200px"></a> | 61070024    | นายจักริน | พงษ์ศิริรัชกุล |
-| <a href=""><img src="img/group1.jpg" width="200px"></a> | 61070134    | นายพัชร์ชวิชญ์ | หมื่นสุนทร |
-| <a href=""><img src="img/group2.jpg" width="200px"></a> | 61070225    | นายศุภธัช | จิรพงษ์ปกรณ์ |
+| <a href=""><img src="img/1.jpg" width="200px"></a> | 61070024    | นายจักริน | พงษ์ศิริรัชกุล |
+| <a href=""><img src="img/2.jpg" width="200px"></a> | 61070134    | นายพัชร์ชวิชญ์ | หมื่นสุนทร |
+| <a href=""><img src="img/3.jpg" width="200px"></a> | 61070225    | นายศุภธัช | จิรพงษ์ปกรณ์ |
 
 ## อาจารย์ที่ปรึกษา
 - รศ.ดร. โชติพัชร์ ภรณวลัย
